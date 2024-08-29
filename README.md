@@ -14,3 +14,7 @@ terraform plan
 terraform apply
 ```
 
+## Tech Stack
+<code><img height="50" src="assets/awslambda-icon.svg" alt="AWSLambda" title="AWSLambda" /></code>
+<code><img height="50" src="assets/python-icon.svg" alt="Python" title="Python" /></code>
+
