@@ -5,7 +5,7 @@ provider "aws" {
 }
 
 resource "aws_lambda_function" "lambda" {
-  function_name = "return_details"
+  function_name = "return_user_details"
   runtime        = "python3.12"
   role           = data.aws_iam_role.existing_role.arn
   handler        = "lambda_function.lambda_function.return_details"
