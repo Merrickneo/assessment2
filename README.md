@@ -14,6 +14,8 @@ terraform plan
 terraform apply
 ```
 
+<code><img src="assets/terraform-lambdafn.png" alt="LambdaFn Screenshot" title="LambdaFn" /></code>
+
 ## Tech Stack
 <code><img height="50" src="assets/awslambda-icon.svg" alt="AWSLambda" title="AWSLambda" /></code>
 <code><img height="50" src="assets/python-icon.svg" alt="Python" title="Python" /></code>
